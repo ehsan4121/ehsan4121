@@ -3,7 +3,7 @@
 
 [Sample2](./AI%20Explained%20For%20Beginners_1.md)
 
-[AI_Models_Explained](AI Models Explained.md)
+[AI_Models_Explained](./AI%20Explained%20For%20Beginners.md)
 
 [BIF101](BIF101.md)
 [](Database Management Systems (DBMS).md)
