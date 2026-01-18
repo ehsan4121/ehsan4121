@@ -3,7 +3,7 @@
 
 [Sample](./AI%20Explained%20For%20Beginners_1.md)
 
-[AI_Models_Explained](./AI%20Models%20Explained.md)
+[![Video 1](https://img.youtube.com/vi/vUTEoEOBN-I/0.jpg)](./AI%20Models%20Explained.md)
 
 [BIF101](./BIF101.md)
 [Deep_Learning)Fundamentals]()
