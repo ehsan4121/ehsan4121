@@ -5,8 +5,7 @@
 
 [![Video 1](https://img.youtube.com/vi/vUTEoEOBN-I/0.jpg)](./AI%20Models%20Explained.md)
 
-[BIF101](./BIF101.md)
-[Deep_Learning)Fundamentals]()
+[![AI_Models_Explained](Profile_pic_Ehsan.jpg)](./AI%20Models%20Explained.md)
 
 [Machine_Learning_Full_Course](Machine Learning Full Course [2026 Updated].md)
 
