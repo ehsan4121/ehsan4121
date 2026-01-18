@@ -1,7 +1,7 @@
 # Ehsan ul Haq
-[Sample](sample.md)
+[Sample](./AI%20Explained%20For%20Beginners.md)
 
-[Sample2](./Bio_Informatics/BIF101.md)
+[Sample2](./AI%20Explained%20For%20Beginners_1.md)
 
 
 
