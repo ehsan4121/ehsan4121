@@ -5,8 +5,8 @@
 
 [AI_Models_Explained](./AI%20Models%20Explained.md)
 
-[BIF101](./BIF101.md.md)
-[Deep_Learning)Fundamentals](Deep Learning Fundamentals.md)
+[BIF101](./BIF101.md)
+[Deep_Learning)Fundamentals]()
 
 [Machine_Learning_Full_Course](Machine Learning Full Course [2026 Updated].md)
 
