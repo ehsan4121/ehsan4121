@@ -41,7 +41,7 @@ https://ehsan4121.github.io/ehsan4121/
 #### Sequence Models Course 5 of the Deep Learning Specialization
 #### Machine Learning Specialization by Andrew Ng 
 #### Improving Deep Neural Networks Hyperparameter Tuning, Regularization and Optimization (Course 2 of the Deep Learning Specialization)
-#### #1 Machine Learning Specialization [Course 1, Week 1, Lesson 1] 
+#### 1 Machine Learning Specialization [Course 1, Week 1, Lesson 1] 
 #### 
 #### 
 #### 
