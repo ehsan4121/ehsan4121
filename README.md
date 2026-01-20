@@ -1,4 +1,9 @@
-# Ehsan ul Haq https://ehsan4121.github.io/ehsan4121/
+# Ehsan ul Haq 
+https://ehsan4121.github.io/ehsan4121/
+
+#### Code Basics
+[![](https://yt3.googleusercontent.com/AL5fF9GZBI-2f_Y62s57LPRn9BKBb_jWvzgvH4Ky4mjAXVj9TH0TchJEY_r-xKvFvWgLAdqm=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)](./Markdown/Code%20Basics.md)
+
 #### AI Explained For Beginners
 [![Video ](https://img.youtube.com/vi/vUTEoEOBN-I/0.jpg)](./Markdown/AI%20Explained%20For%20Beginners!.md)
 #### AI Explained For Beginners!
