@@ -67,3 +67,7 @@
 [![](https://img.youtube.com/vi/p9pPjASnnxw/0.jpg)](https://www.youtube.com/playlist?list=PLOYRlicwLG3T6ukECI8aJFVESYJo71N-t)
 #### CLASS 1: Literature Review Analysis Using Google Scholar and ChatGPT, with AI Persona Prompting
 [![](https://img.youtube.com/vi/tUU35KpcVns/0.jpg)](https://www.youtube.com/watch?v=tUU35KpcVns)
+#### 
+[![](https://img.youtube.com/vi/9Xw5g6_CfLQ/0.jpg)](https://www.youtube.com/PL0VD16H1q5INOKkr-rJhxeScXFcFpTD1o)
+#### 
+[![](https://img.youtube.com/vi/wGsK1iAKEoA/0.jpg)](https://www.youtube.com/PLOFEBzvs-VvrX2HwqjmzpVSzfJ5wjYBcq)

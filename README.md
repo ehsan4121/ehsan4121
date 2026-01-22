@@ -22,7 +22,7 @@ https://ehsan4121.github.io/ehsan4121/
 #### Machine Learning Full Course [2026 Updated]
 [![Video 1](https://img.youtube.com/vi/ukzFI9rgwfU/0.jpg)](./Markdown/Machine%20Learning%20Full%20Course%20[2026%20Updated].md)
 #### Quantum Computing Essentials
-[![Video 1](https://img.youtube.com/vi/lt4OsgmUTGI/0.jpg)](./Markdown/Quantum%20Computing%20Essentials.md)
+[![Video 1](https://img.youtube.com/vi/lt4OsgmUTGI/0.jpg)](./Markdown/Quantum%20Computing%20Essentials_1.md)
 #### AI Updates
 [![Video 1](https://img.youtube.com/vi/KpOcUrPdx-4/0.jpg)](./Markdown/Youtube_Websites%20Link.md)
 
