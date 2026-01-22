@@ -7,6 +7,9 @@ https://ehsan4121.github.io/ehsan4121/
 #### Simplilearn
 [![](https://yt3.googleusercontent.com/U8Oe_e0AJ_i4esYRyuWZbL6iFAVGP4guBG-XsqenBRcJmAgmZpTMklpyUTy3nxcgzuewWVD8LA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)](./Markdown/Simplilearn.md)
 
+#### Quantum Computing Essentials
+[![Video 1](https://img.youtube.com/vi/lt4OsgmUTGI/0.jpg)](./Markdown/Quantum%20Computing%20Essentials_1.md)
+
 #### AI Explained For Beginners
 [![Video ](https://img.youtube.com/vi/vUTEoEOBN-I/0.jpg)](./Markdown/AI%20Explained%20For%20Beginners!.md)
 #### AI Explained For Beginners!
@@ -21,8 +24,6 @@ https://ehsan4121.github.io/ehsan4121/
 [![Video 1](https://img.youtube.com/vi/WR_RipjMKAk/0.jpg)](./Markdown/Deep%20Learning%20Fundamentals.md)
 #### Machine Learning Full Course [2026 Updated]
 [![Video 1](https://img.youtube.com/vi/ukzFI9rgwfU/0.jpg)](./Markdown/Machine%20Learning%20Full%20Course%20[2026%20Updated].md)
-#### Quantum Computing Essentials
-[![Video 1](https://img.youtube.com/vi/lt4OsgmUTGI/0.jpg)](./Markdown/Quantum%20Computing%20Essentials_1.md)
 #### AI Updates
 [![Video 1](https://img.youtube.com/vi/KpOcUrPdx-4/0.jpg)](./Markdown/Youtube_Websites%20Link.md)
 
