@@ -8,7 +8,7 @@ https://ehsan4121.github.io/ehsan4121/
 [![](https://yt3.googleusercontent.com/U8Oe_e0AJ_i4esYRyuWZbL6iFAVGP4guBG-XsqenBRcJmAgmZpTMklpyUTy3nxcgzuewWVD8LA=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)](./Markdown/Simplilearn.md)
 
 #### Quantum Computing Essentials
-[![Video 1](https://img.youtube.com/vi/lt4OsgmUTGI/0.jpg)](./Markdown/Quantum%20Computing%20Essentials_1.md)
+[![Video 1](https://img.youtube.com/vi/lt4OsgmUTGI/0.jpg)](./Quantum%20Computing%20Essentials/Quantum%20Computing%20Essentials_1.md)
 
 #### AI Explained For Beginners
 [![Video ](https://img.youtube.com/vi/vUTEoEOBN-I/0.jpg)](./Markdown/AI%20Explained%20For%20Beginners!.md)
