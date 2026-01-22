@@ -1,6 +1,7 @@
 ### Quantum Computing Fundamentals
 #### What is Quantum Computing?
-[![What is Quantum Computing?](https://img.youtube.com/vi/lt4OsgmUTGI/0.jpg)](https://www.youtube.com/watch?v=lt4OsgmUTGI) 
+[![What is Quantum Computing?](https://img.youtube.com/vi/lt4OsgmUTGI/0.jpg)](./Quantum%20Computing%20Essentials/1_What%20is%20Quantum%20Computing.md) 
+
 <a href="./Quantum Computing Essentials/1_What is Quantum Computing.md">
  <img src="Untitled.jpg" alt="aa" width="50" height="50"> </a>
 
