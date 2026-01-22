@@ -3,7 +3,7 @@
 [![What is Quantum Computing?](https://img.youtube.com/vi/lt4OsgmUTGI/0.jpg)](https://www.youtube.com/watch?v=lt4OsgmUTGI) 
 
 <a href="1_What is Quantum Computing.md">
- <img src="./Untitled.jpg" alt="aa" width="50" height="50">
+ <img src="Untitled.jpg" alt="Summary" width="50" height="50">
 </a>
 
 #### How to program a quantum computer using Qiskit
