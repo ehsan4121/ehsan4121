@@ -5,7 +5,7 @@
 <a href="./1_What is Quantum Computing.md">
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaJrBOlvmoHRWnuP9aVIned1fh9qXeYlWkDg&s" alt="Summary" width="50" height="50">
 </a>
-
+<br>
 <a href="./1_What is Quantum Computing.md">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaJrBOlvmoHRWnuP9aVIned1fh9qXeYlWkDg&s" alt="Sample Image" style="width:15%; height:auto;"> </a>
 
