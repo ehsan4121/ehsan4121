@@ -14,3 +14,25 @@
 #### Pandas Tutorial (Data Analysis In Python)
 
 [![Pandas Tutorial (Data Analysis In Python)](https://img.youtube.com/vi/CmorAWRsCAw/0.jpg)](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy)
+
+#### Potato Disease Classification: Deep learning project end to end
+[![Potato Disease Classification: Deep learning project end to end)](https://img.youtube.com/vi/dGtDTjYs3xc/0.jpg)](https://www.youtube.com/playlist?list=PLeo1K3hjS3ut49PskOfLnE6WUoOp_2lsD)
+
+#### Data Science Project | Machine Learning Project | Real Estate Price
+[![(Data Science Project | Machine Learning Project | Real Estate Pric)](https://img.youtube.com/vi/rdfbcdP75KI/0.jpg)](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7clOTtwsp94PcHbzqpAdg)
+
+#### 
+[![)](https://img.youtube.com/vi//0.jpg)]()
+
+#### 
+[![)](https://img.youtube.com/vi//0.jpg)]()
+
+[![)](https://img.youtube.com/vi//0.jpg)]()
+
+[![)](https://img.youtube.com/vi//0.jpg)]()
+
+[![)](https://img.youtube.com/vi//0.jpg)]()
+
+[![)](https://img.youtube.com/vi//0.jpg)]()
+
+[![)](https://img.youtube.com/vi//0.jpg)]()
