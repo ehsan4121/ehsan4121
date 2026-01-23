@@ -27,6 +27,11 @@ https://ehsan4121.github.io/ehsan4121/
 #### AI Updates
 [![Video 1](https://img.youtube.com/vi/KpOcUrPdx-4/0.jpg)](./Markdown/Youtube_Websites%20Link.md)
 
+#### AGenerative AI Full Course – Gemini Pro, OpenAI, Llama, Langchain, Pinecone, Vector Databases & More
+[![Video 1](https://img.youtube.com/vi/mEsleV16qdo/0.jpg)](https://www.youtube.com/watch?v=_zb5PNYbO_I)
+
+
+
 
 #### AI in Action
 #### AI Technical Tutorials
