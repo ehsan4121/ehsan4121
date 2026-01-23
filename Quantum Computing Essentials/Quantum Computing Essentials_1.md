@@ -2,9 +2,13 @@
 #### What is Quantum Computing?
 [![What is Quantum Computing?](https://img.youtube.com/vi/lt4OsgmUTGI/0.jpg)](https://www.youtube.com/watch?v=lt4OsgmUTGI) 
 
-<a href="1.md">
- <img src="Untitled.jpg" alt="Summary" width="50" height="50">
+<a href="./1_What is Quantum Computing.md">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaJrBOlvmoHRWnuP9aVIned1fh9qXeYlWkDg&s" alt="Summary" width="50" height="50">
 </a>
+
+![Alt Text](Untitled.jpg=100*100)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaJrBOlvmoHRWnuP9aVIned1fh9qXeYlWkDg&s" alt="Sample Image" style="width:5%; height:auto;">
 
 #### How to program a quantum computer using Qiskit
 [![How to program a quantum computer using Qiskit](https://img.youtube.com/vi/Jx7IuJMYtJM/0.jpg)](https://www.youtube.com/watch?v=Jx7IuJMYtJM)

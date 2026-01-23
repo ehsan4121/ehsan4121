@@ -2,7 +2,6 @@
 #### What is Quantum Computing?
 [![What is Quantum Computing?](https://img.youtube.com/vi/lt4OsgmUTGI/0.jpg)](https://www.youtube.com/watch?v=lt4OsgmUTGI)
 
-
 # **Quantum Computing Explained Simply**
 
 ## **📊 Key Comparison: Classical vs Quantum**
