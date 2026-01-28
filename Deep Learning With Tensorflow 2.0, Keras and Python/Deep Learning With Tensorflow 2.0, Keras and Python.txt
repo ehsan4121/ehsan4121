@@ -1,0 +1,64 @@
+Deep Learning With Tensorflow 2.0, Keras and Python
+
+PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO
+
+create an executable python script that ask to enter YouTube links and for each YouTube link create a separate markdown file
+
+1. https://www.youtube.com/watch?v=Mubj_fqiAv8
+2. https://www.youtube.com/watch?v=yfsTZbwgMSE
+3. https://www.youtube.com/watch?v=VhRtaziEWd4
+4. https://www.youtube.com/watch?v=ER2It2mIagI
+5. https://www.youtube.com/watch?v=VC-EliTgMEM
+6. https://www.youtube.com/watch?v=z-ZR_8BZ1wQ
+7. https://www.youtube.com/watch?v=iqQgED9vV7k
+8. https://www.youtube.com/watch?v=icZItWxw7AI
+9. https://www.youtube.com/watch?v=cT4pQT5Da0Q
+10. https://www.youtube.com/watch?v=Wibxjrxf5ko
+11. https://www.youtube.com/watch?v=E1yyaLRUnLo
+12. https://www.youtube.com/watch?v=pXGBHV3y8rs
+13. https://www.youtube.com/watch?v=PQCE9ChuIDY
+14. https://www.youtube.com/watch?v=IU5fuoYBTAM
+15. https://www.youtube.com/watch?v=5ogmEkujoqE
+16. https://www.youtube.com/watch?v=9SdLOcGnebU
+17. https://www.youtube.com/watch?v=YmDaqXMIoeY
+18. https://www.youtube.com/watch?v=MSBY28IJ47U
+19. https://www.youtube.com/watch?v=2osIZ-dSPGE
+20. https://www.youtube.com/watch?v=lcI8ukTUEbo
+21. https://www.youtube.com/watch?v=JnlM4yLFNuo
+22. https://www.youtube.com/watch?v=aDpnaxPAmtU
+23. https://www.youtube.com/watch?v=zfiSAzpy9NM
+24. https://www.youtube.com/watch?v=7HPwo4wnJeA
+25. https://www.youtube.com/watch?v=oDAPkZ53zKk
+26. https://www.youtube.com/watch?v=mTVf7BN7S8w
+27. https://www.youtube.com/watch?v=LsdxvjLWkIY
+28. https://www.youtube.com/watch?v=taC5pMCm70U
+29. https://www.youtube.com/watch?v=SfqN-Hc5two
+30. https://www.youtube.com/watch?v=AimW3j7M2Uw
+31. https://www.youtube.com/watch?v=ag3DLKsl2vk
+32. https://www.youtube.com/watch?v=IfRMV2MY9n0
+33. https://www.youtube.com/watch?v=Y2wfIKQyd1I
+34. https://www.youtube.com/watch?v=EzsXi4WzelI
+35. https://www.youtube.com/watch?v=qowp6SQ9_Oo
+36. https://www.youtube.com/watch?v=LfnrRPFhkuY
+37. https://www.youtube.com/watch?v=tOuXgORsXJ4
+38. https://www.youtube.com/watch?v=atYPhweJ7ao
+39. https://www.youtube.com/watch?v=sZGuyTLjsco
+40. https://www.youtube.com/watch?v=Fuw0wv3X-0o
+41. https://www.youtube.com/watch?v=hQwFeIupNP0
+42. https://www.youtube.com/watch?v=Q2NtCcqmIww
+43. https://www.youtube.com/watch?v=95OyAjIZAbs
+44. https://www.youtube.com/watch?v=VFEOskzhhbc
+45. https://www.youtube.com/watch?v=MLEKEplgCas
+46. https://www.youtube.com/watch?v=7kLi8u2dJz0
+47. https://www.youtube.com/watch?v=hOCDJyZ6quA
+48. https://www.youtube.com/watch?v=P-5sMcpTE0g
+49. https://www.youtube.com/watch?v=v1oHf1KV6kM
+50. https://www.youtube.com/watch?v=ZhAz268Hdpw
+51. https://www.youtube.com/watch?v=dGtDTjYs3xc
+52. https://www.youtube.com/watch?v=bns5ELvbzVk
+53. https://www.youtube.com/watch?v=ZN6P_GEJ7lk
+54. https://www.youtube.com/watch?v=t6NI0u_lgNo
+55. https://www.youtube.com/watch?v=uldlsT98Bbs
+56. https://www.youtube.com/watch?v=DQFerxe6o5g
+57. https://www.youtube.com/watch?v=ra4j7yDlakQ
+58. https://www.youtube.com/watch?v=mSf0j8qkkFI

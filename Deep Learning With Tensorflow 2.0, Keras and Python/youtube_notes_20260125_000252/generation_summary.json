@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-01-25 00:04:05",
+  "csv_file": "D:/Desktop/youtube_videos_20260124_234425.csv",
+  "output_folder": "D:/Desktop/MM\\youtube_notes_20260125_000252",
+  "statistics": {
+    "total": 58,
+    "successful": 58,
+    "failed": 0
+  },
+  "columns": {
+    "video": "video_id",
+    "description": "description",
+    "all_columns": [
+      "title",
+      "description",
+      "channel",
+      "method",
+      "video_id",
+      "url"
+    ]
+  },
+  "template": "detailed"
+}

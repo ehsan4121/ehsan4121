@@ -1,0 +1,466 @@
+[
+  {
+    "title": "Popular datasets for computer vision: ImageNet, Coco and Google Open images | Deep Learning 29",
+    "description": "Imagenet, Coco and google open images datasets are 3 most popular image datasets for computer vision. These datasets provides millions of hand annotated imag...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "SfqN-Hc5two",
+    "url": "https://youtu.be/SfqN-Hc5two"
+  },
+  {
+    "title": "What is Word2Vec? A Simple Explanation | Deep Learning Tutorial 41 (Tensorflow, Keras &amp; Python)",
+    "description": "A very simple explanation of word2vec. This video gives an intuitive understanding of how word2vec algorithm works and how it can generate accurate word embe...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "hQwFeIupNP0",
+    "url": "https://youtu.be/hQwFeIupNP0"
+  },
+  {
+    "title": "Quantization in deep learning | Deep Learning Tutorial 49 (Tensorflow, Keras &amp; Python)",
+    "description": "Are you planning to deploy a deep learning model on any edge device (microcontrollers, cell phone or wearable device)? You need to optimize or downsize your ...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "v1oHf1KV6kM",
+    "url": "https://youtu.be/v1oHf1KV6kM"
+  },
+  {
+    "title": "Converting words to numbers, Word Embeddings | Deep Learning Tutorial 39 (Tensorflow &amp; Python)",
+    "description": "Machine learning models don&#39;t understand words. They should be converted to numbers before they are fed to RNN or any other machine learning model. In this t...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "sZGuyTLjsco",
+    "url": "https://youtu.be/sZGuyTLjsco"
+  },
+  {
+    "title": "Install tensorflow 2.0 | Deep Learning Tutorial 5 (Tensorflow Tutorial, Keras &amp; Python)",
+    "description": "I will show how to install tensorflow 2.0 on windows computer. I will be installing it on top of anaconda. Video to install anaconda on windows: https://www....",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "VC-EliTgMEM",
+    "url": "https://youtu.be/VC-EliTgMEM"
+  },
+  {
+    "title": "Neural Network Simply Explained | Deep Learning Tutorial 4 (Tensorflow2.0, Keras &amp; Python)",
+    "description": "What is a neural network?: Very simple explanation of a neural network using an analogy that even a high school student can understand it easily. what is a n...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "ER2It2mIagI",
+    "url": "https://youtu.be/ER2It2mIagI"
+  },
+  {
+    "title": "What is YOLO algorithm? | Deep Learning Tutorial 31 (Tensorflow, Keras &amp; Python)",
+    "description": "YOLO (You only look once) is a state of the art object detection algorithm that has become main method of detecting objects in the field of computer vision. ...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "ag3DLKsl2vk",
+    "url": "https://youtu.be/ag3DLKsl2vk"
+  },
+  {
+    "title": "Neural Network For Handwritten Digits Classification | Deep Learning Tutorial 7 (Tensorflow2.0)",
+    "description": "In this video we will build our first neural network in tensorflow and python for handwritten digits classification. We will first build a very simple neural...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "iqQgED9vV7k",
+    "url": "https://youtu.be/iqQgED9vV7k"
+  },
+  {
+    "title": "GPU bench-marking with image classification | Deep Learning Tutorial 17 (Tensorflow2.0, Python)",
+    "description": "This video shows performance comparison of using a CPU vs NVIDIA TITAN RTX GPU for deep learning. We are using 60000 small images for classification. These i...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "YmDaqXMIoeY",
+    "url": "https://youtu.be/YmDaqXMIoeY"
+  },
+  {
+    "title": "Vanishing and exploding gradients | Deep Learning Tutorial 35 (Tensorflow, Keras &amp; Python)",
+    "description": "Vanishing gradient is a commong problem encountered while training a deep  neural network with many layers. In case of RNN this problem is prominent as unrol...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "qowp6SQ9_Oo",
+    "url": "https://youtu.be/qowp6SQ9_Oo"
+  },
+  {
+    "title": "Bidirectional RNN | Deep Learning Tutorial 38 (Tensorflow, Keras &amp; Python)",
+    "description": "Bi directional RNNs are used in NLP problems where looking at what comes in the sentence after a given word influences final outcome. In this short video we ...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "atYPhweJ7ao",
+    "url": "https://youtu.be/atYPhweJ7ao"
+  },
+  {
+    "title": "Precision, Recall, F1 score, True Positive|Deep Learning Tutorial 19 (Tensorflow2.0, Keras &amp; Python)",
+    "description": "In this video we will go over following concepts,What is true positive, false positive, true negative, false negativeWhat is precision and recallWhat is F1 s...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "2osIZ-dSPGE",
+    "url": "https://youtu.be/2osIZ-dSPGE"
+  },
+  {
+    "title": "Tensorflow Input Pipeline | tf Dataset | Deep Learning Tutorial 44 (Tensorflow, Keras &amp; Python)",
+    "description": "Tensorflow tf.Data api allows you to build a data input pipeline. Using this you can handle large dataset for your deep learning training by streaming traini...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "VFEOskzhhbc",
+    "url": "https://youtu.be/VFEOskzhhbc"
+  },
+  {
+    "title": "What is BERT? | Deep Learning Tutorial 46 (Tensorflow, Keras &amp; Python)",
+    "description": "What is BERT (Bidirectional Encoder Representations From Transformers) and how it is used to solve NLP tasks? This video provides a very simple explanation o...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "7kLi8u2dJz0",
+    "url": "https://youtu.be/7kLi8u2dJz0"
+  },
+  {
+    "title": "Gradient Descent For Neural Network | Deep Learning Tutorial 12 (Tensorflow2.0, Keras &amp; Python)",
+    "description": "Gradient descent is the heart of all supervised learning models. It is important to understand this technique if you are pursuing a career as a data scientis...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "pXGBHV3y8rs",
+    "url": "https://youtu.be/pXGBHV3y8rs"
+  },
+  {
+    "title": "Activation Functions | Deep Learning Tutorial 8 (Tensorflow Tutorial, Keras &amp; Python)",
+    "description": "Activation functions (step, sigmoid, tanh, relu, leaky relu ) are very important in building a non linear model for a given problem. In this video we will co...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "icZItWxw7AI",
+    "url": "https://youtu.be/icZItWxw7AI"
+  },
+  {
+    "title": "Deep learning project end to end | Potato Disease Classification - 6 : ImageDataGenerator API",
+    "description": "In part 2 and 3, we used explicit data augmentation layer to train our model. In this video I want to show you an alternate way of training the model using a...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "DQFerxe6o5g",
+    "url": "https://youtu.be/DQFerxe6o5g"
+  },
+  {
+    "title": "Pytorch vs Tensorflow vs Keras | Deep Learning Tutorial 6 (Tensorflow Tutorial, Keras &amp; Python)",
+    "description": "We will go over what is the difference between pytorch, tensorflow and keras in this video. Pytorch and Tensorflow are two most popular deep learning framewo...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "z-ZR_8BZ1wQ",
+    "url": "https://youtu.be/z-ZR_8BZ1wQ"
+  },
+  {
+    "title": "Object detection using YOLO v4 and pre trained model | Deep Learning Tutorial 32 (Tensorflow)",
+    "description": "In this video we will use YOLO V4 and use pretrained weights to detect object boundaries in an image. The model was trained on COCO dataset using YOLO V4.Wat...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "IfRMV2MY9n0",
+    "url": "https://youtu.be/IfRMV2MY9n0"
+  },
+  {
+    "title": "Word embedding using keras embedding layer | Deep Learning Tutorial 40 (Tensorflow, Keras &amp; Python)",
+    "description": "In this video we will discuss how exactly word embeddings are computed. There are two techniques for this (1) supervised learning (2) self supervised learnin...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "Fuw0wv3X-0o",
+    "url": "https://youtu.be/Fuw0wv3X-0o"
+  },
+  {
+    "title": "tf serving tutorial | tensorflow serving tutorial | Deep Learning Tutorial 48 (Tensorflow, Python)",
+    "description": "Are you using flask or Fast API to serve your machine learning models? tf serving is a tool that allows you to bring up a model server with single command. I...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "P-5sMcpTE0g",
+    "url": "https://youtu.be/P-5sMcpTE0g"
+  },
+  {
+    "title": "Deep learning project end to end | Potato Disease Classification - 7 : Model Deployment To GCP",
+    "description": "We will deploy our trained model on Google Cloud Platform (GCP) in this video.Code in this video: https://github.com/codebasics/potato-disease-classification...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "ra4j7yDlakQ",
+    "url": "https://youtu.be/ra4j7yDlakQ"
+  },
+  {
+    "title": "Image classification using CNN (CIFAR10 dataset) | Deep Learning Tutorial 24 (Tensorflow &amp; Python)",
+    "description": "In this video we will do small image classification using CIFAR10 dataset in tensorflow. We will use convolutional neural network for this image classificati...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "7HPwo4wnJeA",
+    "url": "https://youtu.be/7HPwo4wnJeA"
+  },
+  {
+    "title": "Deep learning project end to end | Potato Disease Classification - 4 : FastAPI/tf serving Backend",
+    "description": "tf serving is a convenient way to serve machine learning models. In this video we will first build a FastAPI web server and test it using postman application...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "t6NI0u_lgNo",
+    "url": "https://youtu.be/t6NI0u_lgNo"
+  },
+  {
+    "title": "Transformers Explained | Simple Explanation of Transformers",
+    "description": "Transformers is a deep learning architecture that started the modern day AI bootcamp. Applications like ChatGPT uses a model called GPT which is based on the...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "ZhAz268Hdpw",
+    "url": "https://youtu.be/ZhAz268Hdpw"
+  },
+  {
+    "title": "Matrix Basics | Deep Learning Tutorial 10 (Tensorflow Tutorial, Keras &amp; Python)",
+    "description": "Matrix fundamentals are essential to understand how deep learning works. In this video we will go over what is matrix, matrix multiplication, dot product etc...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "Wibxjrxf5ko",
+    "url": "https://youtu.be/Wibxjrxf5ko"
+  },
+  {
+    "title": "Simple explanation of convolutional neural network | Deep Learning Tutorial 23 (Tensorflow &amp; Python)",
+    "description": "A very simple explanation of convolutional neural network or CNN or ConvNet such that even a high school student can understand it easily. This video involve...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "zfiSAzpy9NM",
+    "url": "https://youtu.be/zfiSAzpy9NM"
+  },
+  {
+    "title": "Dropout Regularization | Deep Learning Tutorial 20 (Tensorflow2.0, Keras &amp; Python)",
+    "description": "Overfitting and underfitting are common phenomena in the field of machine learning and the techniques used to tackle overfitting problem is called regulariza...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "lcI8ukTUEbo",
+    "url": "https://youtu.be/lcI8ukTUEbo"
+  },
+  {
+    "title": "Customer churn prediction using ANN | Deep Learning Tutorial 18 (Tensorflow2.0, Keras &amp; Python)",
+    "description": "In this video we will build a customer churn prediction model using artificial neural network or ANN. Customer churn measures how and why are customers leavi...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "MSBY28IJ47U",
+    "url": "https://youtu.be/MSBY28IJ47U"
+  },
+  {
+    "title": "Types of RNN | Recurrent Neural Network Types | Deep Learning Tutorial 34 (Tensorflow &amp; Python)",
+    "description": "In this video we will discuss different types of RNN types such as,1) One to many2) Many to many3) Many to one#typesofrnn #rnnindeeplearning #recurrentneural...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "EzsXi4WzelI",
+    "url": "https://youtu.be/EzsXi4WzelI"
+  },
+  {
+    "title": "Word2Vec Part 2 | Implement word2vec in gensim |  | Deep Learning Tutorial 42 with Python",
+    "description": "We will train word2vec model in python gensim library using amazon product reviews. There is an exercise as well at the end of this video.Code: https://githu...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "Q2NtCcqmIww",
+    "url": "https://youtu.be/Q2NtCcqmIww"
+  },
+  {
+    "title": "Stochastic Gradient Descent vs Batch Gradient Descent vs Mini Batch Gradient Descent |DL Tutorial 14",
+    "description": "Stochastic gradient descent, batch gradient descent and mini batch gradient descent are three flavors of a gradient descent algorithm. In this video I will g...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "IU5fuoYBTAM",
+    "url": "https://youtu.be/IU5fuoYBTAM"
+  },
+  {
+    "title": "Optimize Tensorflow Pipeline Performance: prefetch &amp; cache | Deep Learning Tutorial 45 (Tensorflow)",
+    "description": "It is important to make optimal use of your hardware resources (CPU and GPU) while training a deep learning model. You can  use tf.data.Dataset.prefetch(AUTO...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "MLEKEplgCas",
+    "url": "https://youtu.be/MLEKEplgCas"
+  },
+  {
+    "title": "Deep learning project end to end | Potato Disease Classification - 2 :Data collection, preprocessing",
+    "description": "📺 End to end deep learning project for potato disease classification. In this session, we will cover,⭐️ Timestamps ⭐️00:00 Three ways of collecting data01:3...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "bns5ELvbzVk",
+    "url": "https://youtu.be/bns5ELvbzVk"
+  },
+  {
+    "title": "Handling imbalanced dataset in machine learning | Deep Learning Tutorial 21 (Tensorflow2.0 &amp; Python)",
+    "description": "Credit card fraud detection, cancer prediction, customer churn prediction are some of the examples where you might get an imbalanced dataset. Training a mode...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "JnlM4yLFNuo",
+    "url": "https://youtu.be/JnlM4yLFNuo"
+  },
+  {
+    "title": "Chain Rule | Deep Learning Tutorial 15 (Tensorflow2.0, Keras &amp; Python)",
+    "description": "This video gives a very simple explanation of a chain rule that is used while training a neural network. Chain rule is something that is covered when you stu...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "5ogmEkujoqE",
+    "url": "https://youtu.be/5ogmEkujoqE"
+  },
+  {
+    "title": "Implement Neural Network In Python | Deep Learning Tutorial 13 (Tensorflow2.0, Keras &amp; Python)",
+    "description": "In this video we will implement a simple neural network with single neuron from scratch in python. This is also an implementation of a logistic regression in...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "PQCE9ChuIDY",
+    "url": "https://youtu.be/PQCE9ChuIDY"
+  },
+  {
+    "title": "Simple Explanation of GRU (Gated Recurrent Units) | Deep Learning Tutorial 37 (Tensorflow &amp; Python)",
+    "description": "Simple Explanation of GRU (Gated Recurrent Units): Similar to LSTM, Gated recurrent unit addresses short term memory problem of traditional RNN. It was inven...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "tOuXgORsXJ4",
+    "url": "https://youtu.be/tOuXgORsXJ4"
+  },
+  {
+    "title": "Text Classification Using BERT &amp; Tensorflow | Deep Learning Tutorial 47 (Tensorflow, Keras &amp; Python)",
+    "description": "Using BERT and Tensorflow 2.0, we will write simple code to classify emails as spam or not spam. BERT will be used to generate sentence encoding for all emai...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "hOCDJyZ6quA",
+    "url": "https://youtu.be/hOCDJyZ6quA"
+  },
+  {
+    "title": "Simple Explanation of LSTM | Deep Learning Tutorial 36 (Tensorflow, Keras &amp; Python)",
+    "description": "LSTM or long short term memory is a special type of RNN that solves traditional RNN&#39;s short term memory problem. In this video I will give a very simple expl...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "LfnrRPFhkuY",
+    "url": "https://youtu.be/LfnrRPFhkuY"
+  },
+  {
+    "title": "Convolution padding and stride | Deep Learning Tutorial 25 (Tensorflow2.0, Keras &amp; Python)",
+    "description": "In this video we will cover what is padding and stride in convolution operation. Padding allows corner pixels in image to participate well in feature detecti...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "oDAPkZ53zKk",
+    "url": "https://youtu.be/oDAPkZ53zKk"
+  },
+  {
+    "title": "Sliding Window Object Detection | Deep Learning Tutorial 30 (Tensorflow, Keras &amp; Python)",
+    "description": "Sliding window object detection is a technique that allows you to detect objects in a picture. This technique is not very efficient as it is very compute int...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "AimW3j7M2Uw",
+    "url": "https://youtu.be/AimW3j7M2Uw"
+  },
+  {
+    "title": "Why deep learning is becoming so popular? | Deep Learning Tutorial 2 (Tensorflow2.0, Keras &amp; Python)",
+    "description": "This video explains four reasons why deep learning has become so popular in past few years.In this deep learning tutorial python, I will cover following thin...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "yfsTZbwgMSE",
+    "url": "https://youtu.be/yfsTZbwgMSE"
+  },
+  {
+    "title": "Deep learning project end to end | Potato Disease Classification Using CNN - 1 : Problem Statement",
+    "description": "This is the first video in end to end deep learning project series in agriculture domain. Farmers every year face economic loss and crop waste due to various...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "dGtDTjYs3xc",
+    "url": "https://youtu.be/dGtDTjYs3xc"
+  },
+  {
+    "title": "Loss or Cost Function | Deep Learning Tutorial 11 (Tensorflow Tutorial, Keras &amp; Python)",
+    "description": "Loss or a cost function is an important concept we need to understand if you want to grasp how a neural network trains itself. We will go over various loss f...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "E1yyaLRUnLo",
+    "url": "https://youtu.be/E1yyaLRUnLo"
+  },
+  {
+    "title": "Deep learning project end to end | Potato Disease Classification - 3 : Model Building",
+    "description": "We will train a convolutional neural network in tensorflow using potato plant images. The goal of this model would be to classify these images as either heal...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "ZN6P_GEJ7lk",
+    "url": "https://youtu.be/ZN6P_GEJ7lk"
+  },
+  {
+    "title": "Distributed Training On NVIDIA DGX Station A100 | Deep Learning Tutorial 43 (Tensorflow &amp; Python)",
+    "description": "Using tensorflow mirrored strategy we will perform distributed training on NVIDIA DGX Station A100 System. Distributed training is used to split the training...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "95OyAjIZAbs",
+    "url": "https://youtu.be/95OyAjIZAbs"
+  },
+  {
+    "title": "Image classification vs Object detection vs Image Segmentation | Deep Learning Tutorial 28",
+    "description": "Using a simple example I will explain the difference between image classification, object detection and image segmentation in this video. Do you want to lear...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "taC5pMCm70U",
+    "url": "https://youtu.be/taC5pMCm70U"
+  },
+  {
+    "title": "Introduction | Deep Learning Tutorial 1 (Tensorflow Tutorial, Keras &amp; Python)",
+    "description": "With this video, I am beginning a new deep learning tutorial series for total beginners. In this deep learning tutorial python, I will cover following things...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "Mubj_fqiAv8",
+    "url": "https://youtu.be/Mubj_fqiAv8"
+  },
+  {
+    "title": "Data augmentation to address overfitting | Deep Learning Tutorial 26 (Tensorflow, Keras &amp; Python)",
+    "description": "When we don&#39;t have enough training samples to cover diverse cases in image classification, often CNN might overfit. To address this we use a technique called...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "mTVf7BN7S8w",
+    "url": "https://youtu.be/mTVf7BN7S8w"
+  },
+  {
+    "title": "Transfer Learning | Deep Learning Tutorial 27 (Tensorflow, Keras &amp; Python)",
+    "description": "📺 Transfer learning is a very important concept in the field of computer vision and natural language processing. Using transfer learning you can use pre tra...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "LsdxvjLWkIY",
+    "url": "https://youtu.be/LsdxvjLWkIY"
+  },
+  {
+    "title": "Deep learning project end to end | Potato Disease Classification - 5 : Website (In React JS)",
+    "description": "We will build a testpad website in React JS that can support drag and drop of potato plant leaf image. Upon dropping the image on website, it calls the FastA...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "uldlsT98Bbs",
+    "url": "https://youtu.be/uldlsT98Bbs"
+  },
+  {
+    "title": "Derivatives | Deep Learning Tutorial 9 (Tensorflow Tutorial, Keras &amp; Python)",
+    "description": "Derivatives and partial derivatives are important concepts that we need to understand in order to gain knowledge on how neural network training works. We wil...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "cT4pQT5Da0Q",
+    "url": "https://youtu.be/cT4pQT5Da0Q"
+  },
+  {
+    "title": "What is Recurrent Neural Network (RNN)? Deep Learning Tutorial 33 (Tensorflow, Keras &amp; Python)",
+    "description": "RNN or Recurrent Neural Network are also known as sequence models that are used mainly in the field of natural language processing as well as some other area...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "Y2wfIKQyd1I",
+    "url": "https://youtu.be/Y2wfIKQyd1I"
+  },
+  {
+    "title": "Applications of computer vision | Deep Learning Tutorial 22 (Tensorflow2.0, Keras &amp; Python)",
+    "description": "Advancements in deep learning (especially invention of convolutional neural network or CNN or ConvNet) has made possible many amazing things in the field of ...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "aDpnaxPAmtU",
+    "url": "https://youtu.be/aDpnaxPAmtU"
+  },
+  {
+    "title": "Deep learning project end to end | Potato Disease Classification - 8 : Mobile App in React Native",
+    "description": "We will build a mobile application in react native that can be used by farmers to take a picture of potato plant and detect if plant has a disease.Github pag...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "mSf0j8qkkFI",
+    "url": "https://youtu.be/mSf0j8qkkFI"
+  },
+  {
+    "title": "What is a neuron? | Deep Learning Tutorial 3 (Tensorflow Tutorial, Keras &amp; Python)",
+    "description": "In this video, we will see how you can think of a logistic regression as a neuron. We will use insurance dataset as a sample and build a logistic regression....",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "VhRtaziEWd4",
+    "url": "https://youtu.be/VhRtaziEWd4"
+  },
+  {
+    "title": "Tensorboard Introduction | Deep Learning Tutorial 16 (Tensorflow2.0, Keras &amp; Python)",
+    "description": "Often it becomes necessary to see what&#39;s going on inside your neural network. Tensorboard is a tool that comes with tensorflow and it allows you to visualize...",
+    "channel": "codebasics",
+    "method": "Web Scraping",
+    "video_id": "9SdLOcGnebU",
+    "url": "https://youtu.be/9SdLOcGnebU"
+  }
+]
